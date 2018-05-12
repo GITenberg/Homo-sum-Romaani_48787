@@ -1,9 +1,13 @@
 _repo: Homo-sum-Romaani_48787
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Setälä, E. N.
     gutenberg_agent_id: '44969'
     url: http://www.gutenberg.org/2009/agents/44969
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ebers, Georg
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1800
     wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48787#Homo-sum-Romaani
 gutenberg_issued: '2015-04-25'
 gutenberg_type: Text
 identifiers:
